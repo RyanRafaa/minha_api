@@ -2,7 +2,7 @@
   "filmes": [
     {
           "id": 1,
-          "titulo":"Homem de Ferro 2",
+          "titulo": "Homem de Ferro 2",
           "resumo":"Filme do Homem de Ferro",
           "atores":"Robert Downey",
           "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
@@ -10,17 +10,18 @@
       },
     {
           "id": 2,
-          "titulo":"A Branca de neve",
-          "resumo":"Filme da Branca de Neve",
-          "atores":"Tamy gretchen",
+          "titulo": "Homem de Ferro 11",
+          "resumo":"Filme do Homem de Ferro",
+          "atores":"Robert Downey",
           "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
-          "duracao":120
+          "duracao":140
       },
+    
     {
           "id": 3,
-          "titulo":"A volta dos que não foram",
-          "resumo":"Filme da Branca de Neve",
-          "atores":"Tamy gretchen",
+          "titulo": "Homem de Ferro 11",
+          "resumo":"Filme do Homem de Ferro",
+          "atores":"Robert Downey",
           "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
           "duracao":140
       }
@@ -30,6 +31,19 @@
           "id": 1,
           "nome":"Robert Downey",
           "avatar": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
+      }
+  ],
+  
+   "serties": [
+      {
+          "id": 1,
+          "nome":"Robert Downey",
+          "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
+      },
+      {
+          "id": 2,
+          "nome":"Robert Downey",
+          "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
       }
   ]
 }
