@@ -7,6 +7,22 @@
           "atores":"Robert Downey",
           "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
           "duracao":140
+      },
+    {
+          "id": 2,
+          "titulo": "A Branca de neve",
+          "resumo":"Filme da Branca de Neve",
+          "atores":"Tamy gretchen",
+          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+          "duracao":140
+      },
+    {
+          "id": 3,
+          "titulo": "A volta dos que não foram",
+          "resumo":"Filme da Branca de Neve",
+          "atores":"Tamy gretchen",
+          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+          "duracao":140
       }
   ],
    "atores": [
